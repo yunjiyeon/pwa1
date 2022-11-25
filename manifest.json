@@ -8,7 +8,7 @@
   "lang": "ko",
   "display": "standalone",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://yunjiyeon.github.io/pwa1/",
   "start_url": "https://yunjiyeon.github.io/pwa1/", 
   
   "gcm_sender_id": "", 
