@@ -1,10 +1,9 @@
 # MINI PROJECT | GOGO Talk (PWA App/Web Develop)
 > Sass를 이용하여 스타일 효과를 구현한 모바일 메신저
-
 <br>
+
 * 기여도 : 개인 100% <br> 
 * 기간 : 2022.11
-<br>
 
 ## 📍 Overview
 
